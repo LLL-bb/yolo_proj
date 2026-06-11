@@ -4,3 +4,36 @@ __pycache__/
 .env
 node_modules/
 .DS_Store
+
+# Runtime data (model weights, debug captures)
+data/models/
+data/recordings/
+
+# VS Code
+.vscode/
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# Large data files
+*.zip
+*.gz
+*.tar
+*.rar
+*.7z
+
+# Raw data
+data/raw/
+
+# Image datasets
+data/train/
+data/test/
+data/val/
+
+# Dataset archives
+data/grabandgo_dataset.zip
+
+# Lightweight dataset (too large for git)
+data_light/

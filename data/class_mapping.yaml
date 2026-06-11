@@ -1,0 +1,18 @@
+# Class ID mapping for the Grab-and-Go product catalog.
+#
+# Maps YOLO class_id (after 76-class filtering) to products.
+# These are verified against the RPC dataset's Chinese SKU names.
+
+products:
+  9:  {id: cheetos,       name: "Cheetos Japanese Steak 90g",     price_cents: 449, category: snacks}
+  28: {id: oreo_pack,     name: "Oreo Cookies 55g",               price_cents: 399, category: snacks}
+  29: {id: water_bottle,  name: "Spring Water 550mL",             price_cents: 129, category: beverages}
+  32: {id: coke_can_355,  name: "Coca-Cola 500mL",                price_cents: 199, category: beverages}
+  33: {id: pepsi_can_355, name: "Pepsi 600mL",                    price_cents: 199, category: beverages}
+  34: {id: fanta_apple,   name: "Fanta Apple 500mL",              price_cents: 199, category: beverages}
+  36: {id: sprite_can,    name: "Sprite 500mL",                   price_cents: 199, category: beverages}
+  55: {id: snickers_bar,  name: "Snickers Bar 51g",               price_cents: 179, category: candy}
+
+# Other available RPC classes you can add:
+# 30: water (yibao), 39: Pepsi 330ml, 40: Coke 330ml, 78: Sprite 330ml
+# 10/11: Cheetos, 46-54: other chocolates, 12-27: other desserts

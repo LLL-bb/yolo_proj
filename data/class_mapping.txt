@@ -1,0 +1,59 @@
+class_id=  1 (YOLO=  0): 1_puffed_food             -> 1_puffed_food
+class_id=  2 (YOLO=  1): 2_puffed_food             -> 2_puffed_food
+class_id=  3 (YOLO=  2): 3_puffed_food             -> 3_puffed_food
+class_id=  4 (YOLO=  3): 4_puffed_food             -> 4_puffed_food
+class_id=  5 (YOLO=  4): 5_puffed_food             -> 5_puffed_food
+class_id=  6 (YOLO=  5): 6_puffed_food             -> 6_puffed_food
+class_id=  7 (YOLO=  6): 7_puffed_food             -> 7_puffed_food
+class_id=  8 (YOLO=  7): 8_puffed_food             -> 8_puffed_food
+class_id=  9 (YOLO=  8): 9_puffed_food             -> 9_puffed_food
+class_id= 10 (YOLO=  9): 10_puffed_food            -> 10_puffed_food
+class_id= 11 (YOLO= 10): 11_puffed_food            -> 11_puffed_food
+class_id= 12 (YOLO= 11): 12_puffed_food            -> 12_puffed_food
+class_id= 71 (YOLO= 70): 71_drink                  -> 71_drink
+class_id= 72 (YOLO= 71): 72_drink                  -> 72_drink
+class_id= 73 (YOLO= 72): 73_drink                  -> 73_drink
+class_id= 74 (YOLO= 73): 74_drink                  -> 74_drink
+class_id= 75 (YOLO= 74): 75_drink                  -> 75_drink
+class_id= 76 (YOLO= 75): 76_drink                  -> 76_drink
+class_id= 77 (YOLO= 76): 77_drink                  -> 77_drink
+class_id= 78 (YOLO= 77): 78_drink                  -> 78_drink
+class_id= 79 (YOLO= 78): 79_alcohol                -> 79_alcohol
+class_id= 80 (YOLO= 79): 80_alcohol                -> 80_alcohol
+class_id= 81 (YOLO= 80): 81_drink                  -> 81_drink
+class_id= 82 (YOLO= 81): 82_drink                  -> 82_drink
+class_id= 83 (YOLO= 82): 83_drink                  -> 83_drink
+class_id= 84 (YOLO= 83): 84_drink                  -> 84_drink
+class_id= 85 (YOLO= 84): 85_drink                  -> 85_drink
+class_id= 86 (YOLO= 85): 86_drink                  -> 86_drink
+class_id= 87 (YOLO= 86): 87_drink                  -> 87_drink
+class_id=122 (YOLO=121): 122_chocolate             -> 122_chocolate
+class_id=123 (YOLO=122): 123_chocolate             -> 123_chocolate
+class_id=124 (YOLO=123): 124_chocolate             -> 124_chocolate
+class_id=125 (YOLO=124): 125_chocolate             -> 125_chocolate
+class_id=126 (YOLO=125): 126_chocolate             -> 126_chocolate
+class_id=127 (YOLO=126): 127_chocolate             -> 127_chocolate
+class_id=128 (YOLO=127): 128_chocolate             -> 128_chocolate
+class_id=129 (YOLO=128): 129_chocolate             -> 129_chocolate
+class_id=130 (YOLO=129): 130_chocolate             -> 130_chocolate
+class_id=131 (YOLO=130): 131_chocolate             -> 131_chocolate
+class_id=132 (YOLO=131): 132_chocolate             -> 132_chocolate
+class_id=133 (YOLO=132): 133_chocolate             -> 133_chocolate
+class_id=134 (YOLO=133): 134_gum                   -> 134_gum
+class_id=135 (YOLO=134): 135_gum                   -> 135_gum
+class_id=136 (YOLO=135): 136_gum                   -> 136_gum
+class_id=137 (YOLO=136): 137_gum                   -> 137_gum
+class_id=138 (YOLO=137): 138_gum                   -> 138_gum
+class_id=139 (YOLO=138): 139_gum                   -> 139_gum
+class_id=140 (YOLO=139): 140_gum                   -> 140_gum
+class_id=141 (YOLO=140): 141_gum                   -> 141_gum
+class_id=142 (YOLO=141): 142_candy                 -> 142_candy
+class_id=143 (YOLO=142): 143_candy                 -> 143_candy
+class_id=144 (YOLO=143): 144_candy                 -> 144_candy
+class_id=145 (YOLO=144): 145_candy                 -> 145_candy
+class_id=146 (YOLO=145): 146_candy                 -> 146_candy
+class_id=147 (YOLO=146): 147_candy                 -> 147_candy
+class_id=148 (YOLO=147): 148_candy                 -> 148_candy
+class_id=149 (YOLO=148): 149_candy                 -> 149_candy
+class_id=150 (YOLO=149): 150_candy                 -> 150_candy
+class_id=151 (YOLO=150): 151_candy                 -> 151_candy

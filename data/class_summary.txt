@@ -1,0 +1,21 @@
+Product-to-YOLO Class Mapping
+==================================================
+Coca-Cola -> YOLO 32 (500ml) or YOLO 40 (330ml)
+Pepsi     -> YOLO 33 (600ml) or YOLO 39 (330ml)
+Water     -> YOLO 29 (nongfushanquan) or YOLO 30 (yibao)
+Snickers  -> YOLO 55 (exact match!)
+Oreo      -> YOLO 28 (mini Oreo)
+Sprite    -> YOLO 36
+Fanta     -> YOLO 34 (apple) or YOLO 35 (orange)
+
+Not in RPC: Lay's, Gatorade, Doritos
+Closest alternatives:
+  Cheetos -> YOLO 9 or YOLO 10 (instead of Doritos)
+
+YOLO class ranges:
+  0-11:  Puffed food (chips)
+ 12-28: Dessert (includes Oreo at 28)
+ 29-45: Drinks (includes Coke/Pepsi/Water)
+ 46-57: Chocolate (includes Snickers at 55)
+ 58-65: Gum
+ 66-75: Candy
